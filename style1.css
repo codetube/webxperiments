@@ -1,0 +1,32 @@
+#header {
+	border: 1px solid black;
+	width: 30%;
+	margin-left: 35%;
+	margin-right: 35%;
+	text-align: center;
+	padding: 20px;
+}
+#header h1 {
+	font-size: 24px;
+	color: green;
+}
+#header p {
+	font-style: italic;
+	letter-spacing: 5%;
+}
+#allbox {
+	width: 90%;
+	height: 90%;
+	margin-left: 5%;
+	margin-top: 2%;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	background-color: gray;
+	text-align: center;
+	vertical-align: middle;
+	/*background-image: linear-gradient(top, rgba(49,44,42,255) 0%, rgba(46,63,40,255) 25%, rgba(44,82,39,255) 50%, rgba(131,150,128,255) 75%, rgba(219,219,218,255) 93%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(49,44,42,255)), color-stop(0.25, rgba(46,63,40,255)), color-stop(0.5, rgba(44,82,39,255)), color-stop(0.75, rgba(131,150,128,255)), color-stop(0.925, rgba(219,219,218,255)));
+	background-image: -moz-linear-gradient(top, rgba(49,44,42,255) 0%, rgba(46,63,40,255) 25%, rgba(44,82,39,255) 50%, rgba(131,150,128,255) 75%, rgba(219,219,218,255) 93%);
+	background-image: -o-linear-gradient(top, rgba(49,44,42,255) 0%, rgba(46,63,40,255) 25%, rgba(44,82,39,255) 50%, rgba(131,150,128,255) 75%, rgba(219,219,218,255) 93%);*/
+}
